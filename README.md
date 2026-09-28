@@ -1,0 +1,1 @@
+# halc-safety-portal
